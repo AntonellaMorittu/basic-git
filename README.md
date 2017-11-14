@@ -1,0 +1,2 @@
+# basic-git
+exploring github
